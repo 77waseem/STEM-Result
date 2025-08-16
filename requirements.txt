@@ -1,6 +1,3 @@
+Flask==2.3.4
 pandas==2.0.3
-numpy==1.26.2
-flask==2.3.4
-reportlab==4.1.0
-arabic-reshaper==5.0.0
-python-bidi==0.4.2
+reportlab==4.0.0
